@@ -1,7 +1,7 @@
 ### Hello world 👋
 - I am a Full Stack Developer
 - 🌱 I’m currently learning and getting better with NextJs and TypeScript
-- :magnifying_glass: Interested in Vue and Pinia
+- :mag_right:Interested in Vue and Pinia
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Albert_Sagol-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-sagol)
 
 ---
@@ -10,7 +10,7 @@
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40" style="background:#adc"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="Express"  alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
- <img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" title="Cypress" alt="Cypress" width="120" height="40"/>&nbsp;
+ <img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
 </div>
 
 ---
