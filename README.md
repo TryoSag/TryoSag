@@ -2,7 +2,8 @@
 - I am a Full Stack Developer
 - 🌱 I’m currently learning and getting better with NextJs and TypeScript
 - :magnifying_glass: Interested in Vue and Pinia
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-sagol)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Albert_Sagol-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-sagol)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -28,6 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
  <img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" title="Cypress" alt="Cypress" width="120" height="40"/>&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
