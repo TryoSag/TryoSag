@@ -1,8 +1,8 @@
 ### Hello world 👋
 - I am a Junior Full Stack Developer
 - 🌱 I’m currently learning and getting better with NextJs and TypeScript
-- :mag_right:Interested in Vue and Pinia
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Albert_Sagol-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-sagol)
+- :mag_right: Interested in Vue and Pinia
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Albert_Sagol-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-sagol)
 
 ---
 
